@@ -14,7 +14,8 @@ stations["kthree"]=set(["or","nv","ca"])
 stations["kfour"]=set(["nv","ut"])
 stations["kfive"]=set(["ca","az"])
 
-# 如何找出覆盖全州最少广播台集合？？
+
+# 如何找出覆盖全州最少广播台集合？
 
 
 #  本例采用近似算法，可得到非常接近的解。
